@@ -1,0 +1,30 @@
+:root {
+    --white: #fff;
+    --background: #f2f3f5;
+    --gray-line: #dcdde0;
+    --text: #666666;
+    --text-highlight: #b3b9ff;
+    --title: #2e384d;
+    --red: #da5c5c;
+    --green: #4cd62b;
+    --blue: #5965e0;
+    --blue-dark: #4953b8;
+    --blue-twitter: #2aa9e0;
+  }
+
+.main-navbar {
+    height: 70px;
+    background-color: var(--red);
+    padding-left: 45px;
+    display: flex;
+    align-items: center;
+}
+
+.logo-text {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 33px;
+    letter-spacing: -0.015em;
+    color: var(--white);
+    margin-left: 15px;
+}
