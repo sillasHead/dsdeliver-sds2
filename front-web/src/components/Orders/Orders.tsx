@@ -1,13 +1,13 @@
 import { useEffect, useState } from 'react';
 import { toast } from 'react-toastify';
-import { fetchProducts, saveOrder } from '../api';
-import Footer from '../Footer';
+import { fetchProducts, saveOrder } from '../../api';
+import Footer from '../Footer/Footer';
 import { checkIsSelected } from './helpers';
-import OrderLocation from './OrderLocation';
-import OrderSummary from './OrderSummary';
-import ProductsList from './ProductsList';
-import StepsHeader from './StapsHeader';
-import './styles.css';
+import OrderLocation from './OrderLocation/OrderLocation';
+import OrderSummary from './OrderSummary/OrderSummary';
+import ProductsList from './ProductList/ProductsList';
+import StepsHeader from './StepsHeader/StepsHeader';
+import './orders.css';
 import { OrderLocationData, Product } from './types';
 
 

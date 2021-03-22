@@ -1,4 +1,4 @@
-import './styles.css'
+import './navbar.css'
 import { ReactComponent as Logo } from './logo.svg'
 import { Link } from 'react-router-dom';
 
