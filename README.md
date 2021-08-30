@@ -1,6 +1,6 @@
 # DsDeliver
 
-Projeto com fins educativos, instruído pelo professor Nélio Alves por meio da segunda edição da Semana DevSuperior, promovida pela equipe [DevSuperior](https://github.com/devsuperior).
+Projeto com fins educativos, instruído pelo professor Nélio Alves por meio da segunda edição da Semana DevSuperior, promovida pela equipe [DevSuperior](https://devsuperior.com.br/).
 
 > Acesse esse projeto em https://sillashead-dsdeliver.netlify.app/ 
 
